@@ -222,7 +222,8 @@ a:focus {
     }
     
     .navbar .navbar-brand {
-        color: #EF233C;
+        color: #7aa2db;
+        font-size: 25px;
     }
     
     .navbar .navbar-nav {
@@ -800,6 +801,9 @@ a:focus {
     
     .service .service-text p {
         font-size: 14px;
+    }
+    .footer .footer-info h3 {
+        font-size: 17px;
     }
 }
 
